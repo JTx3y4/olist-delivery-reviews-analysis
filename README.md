@@ -12,11 +12,11 @@ The overall late delivery rate for these orders is 6.77% and the states where th
 
 Page 1: Delivery & Reviews Overview
 
-![Page 1: Delivery & Reviews Overview](images/page1_delivery_reviews.png)
+![Page 1: Delivery & Reviews Overview](page1_delivery_reviews.png)
 
 Page 2: Why Orders Are Late
 
-![Page 2: Why Orders Are Late](images/page2_why_late.png)
+![Page 2: Why Orders Are Late](page2_why_late.png)
 
 ## The Question
 
